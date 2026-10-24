@@ -1,4 +1,8 @@
-![Banner Raina Alves](./banner_github_melhorado.png)
+
+<p align="center">
+  <img src="./banner_github_melhorado.png" alt="Banner Raina Alves" width="100%">
+</p>
+
 
 
 # RA | Desenvolvimento de Software
