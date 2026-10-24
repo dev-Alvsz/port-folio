@@ -1,4 +1,8 @@
 
+<p align="center">
+  <img src="banner-github.png" width="100%" alt="RA — Desenvolvimento de Software">
+</p>
+
 # RA | Desenvolvimento de Software
 
 ### Desenvolvedor em formação • Python • Desenvolvimento Web
