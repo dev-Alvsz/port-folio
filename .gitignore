@@ -1,0 +1,22 @@
+# Dependências
+node_modules/
+
+# Arquivos de compilação
+dist/
+build/
+
+# Variáveis de ambiente e segredos
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+npm-debug.log*
+
+# Arquivos temporários do Windows
+Thumbs.db
+Desktop.ini
+
+# Arquivos do editor
+.vscode
