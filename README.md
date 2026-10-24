@@ -5,7 +5,7 @@
 
 # RA | Desenvolvimento de Software
 
-### Desenvolvedor em formação • Python • Desenvolvimento Web
+### Desenvolvedora em formação • Python • Desenvolvimento Web
 
 Transformando ideias em soluções digitais por meio da programação, com foco em desenvolvimento de software, automação e inovação tecnológica.
 
