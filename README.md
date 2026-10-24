@@ -1,4 +1,6 @@
 
+![Banner Raina Alves](banner_github_melhorado.png)
+
 # RA | Desenvolvimento de Software
 
 ### Desenvolvedora em formação • Python • Desenvolvimento Web
